@@ -5,7 +5,7 @@ class seseorang
 {
 public:
 	virtual void pesan() = 0;
-	virtual pesan()
+	virtual void pesan()
 	{
 		cout << "Pesan dari seseorang" << endl;
 	}
